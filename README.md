@@ -91,22 +91,20 @@ a<b> Web Development</b> enthusiast from <b>India</b></h2>
 <div style="height:1px;width:98%;background-color:white;margin-left:1%"></div>
 <br>
 
+
 <div align="center">
 <h2 ><b>Connect with me:</b></h2>
-<div style="display:flex;justify-content:center">
-<a href="https://www.instagram.com/lazy_bugger_19/"><img  
-src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/ style="padding-right:2%"></a>
-
-<a href="https://www.linkedin.com/in/shubham-shantam-raju-4942641bb/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white " style="padding-right:2%"/></a>
-
+  </div>
+<div align="center">
 <a href="https://github.com/deucaleon18"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="padding-right:2%"/></a>
+<a href="https://www.linkedin.com/in/shubham-shantam-raju-4942641bb/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white " style="padding-right:2%"/></a>  
+<a href="https://www.facebook.com/profile.php?id=100009885432645"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" style="padding-right:2%"/></a> 
+<a href="https://www.instagram.com/lazy_bugger_19/"><img  
+src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="padding-right:2%"/></a>
+<a href="mailto:shubham37908@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<!-- <a href=""><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="padding-right:2%"/></a> -->
 
-<a href=""><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="padding-right:2%"/></a>
-
-<a href="https://www.facebook.com/profile.php?id=100009885432645"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" style="padding-right:2%"/></a>
-
-<a href="mailto:shubham37908@gmail.com"><img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
+ </div>
 
 <br>
 
